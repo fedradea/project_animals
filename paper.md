@@ -7,3 +7,10 @@
 
 Animals are what makes people great!
 Some stuff about animals.
+
+# My favourite Australian Animals
+
+* koalas
+* kangaroos
+* fancy spiders
+* aline
