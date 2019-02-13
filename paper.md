@@ -19,3 +19,8 @@ Some stuff about animals.
 
 * folaga
 * licia
+
+# My favourite italian Animals
+
+* MaryVic
+* becco
