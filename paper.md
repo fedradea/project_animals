@@ -14,3 +14,8 @@ Some stuff about animals.
 * kangaroos
 * fancy spiders
 * aline
+
+# My favourite Swiss animals
+
+* folaga
+* licia
