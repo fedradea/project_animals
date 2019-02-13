@@ -6,7 +6,7 @@
 # Introduction
 
 Animals are what makes people great!
-Some stuff about animals.
+Some stuff about animals IMPORTANT.
 
 # My favourite Australian Animals
 
